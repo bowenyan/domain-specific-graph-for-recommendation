@@ -1,8 +1,8 @@
-# Domain-specific knowledge graph for recommendation.
+## Domain-specific knowledge graph for recommendation.
 
 The main goal of the project is to provide a technology intelligence platform for technology competitive analysis. We created technology space maps, in which nodes represent technology domains and edges denote the relationships between the technology domains, by applying different statistical methods, e.g., similarity measures, information theory, economic base metrics. It is a network-analytic based decision making tool.
 
-## The main work have been published in the papers shown below:
+### The main work have been published in the papers shown below:
 1. [Measuring technological distance for patent mapping](https://doi.org/10.1002/asi.23664), Journal of the association for information science and technology 68(2):423-437.
 
 2. [Filtering patent maps for visualization of diversification paths of inventors and organizations](https://doi.org/10.1002/asi.23780), Journal of the association for information science and technology 68(6):1551-1563.
@@ -11,7 +11,7 @@ The main goal of the project is to provide a technology intelligence platform fo
 
 4. [The superior knowledge proximity measure for patent mapping](https://arxiv.org/pdf/1901.03925.pdf), arXiv, 2019.
 
-## Main features:
+### Main features:
 1. Build technology road mapping for agents, like companies, individual inventors, etc., using the technology space map.
 
 2. Provide economic metrics to evaluate the technology performance (e.g., coherence, diversification) based on agents’ technology portfolios and relationships between technology domains in technology space.
@@ -24,7 +24,7 @@ The main goal of the project is to provide a technology intelligence platform fo
 
 6. Recommend similar agents using their technology portfolios.
 
-## Following work:
+### Following work:
 
 **This repository only shares some following work (shown below) after the published work. If you are interested in the methodology part or have questions/comments, please feel free to contact. Please also note that the networks shared in the repository can only be used for academic research purpose. **
 
