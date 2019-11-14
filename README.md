@@ -1,4 +1,4 @@
-# Domain-specific knowledge graph
+# Domain-specific knowledge graph for recommendation 
 This work is the core of a technology intelligence platform. 
 
 
