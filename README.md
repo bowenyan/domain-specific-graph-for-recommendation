@@ -9,7 +9,7 @@ The main goal of the project is to provide a technology intelligence platform fo
 
 3. [InnoGPS for data-driven exploration of design opportunities and directions: the case of Google driverless car project](https://doi.org/10.1115/1.4037680), Journal of mechanical design 139(11), 111416.
 
-4. [The superior knowledge proximity measure for patent mapping](https://arxiv.org/pdf/1901.03925.pdf), arXiv.
+4. [The superior knowledge proximity measure for patent mapping](https://arxiv.org/pdf/1901.03925.pdf), arXiv, 2019.
 
 ## Main features:
 1. Build technology road mapping for agents, like companies, individual inventors, etc., using the technology space map.
