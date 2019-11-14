@@ -7,9 +7,9 @@ The main goal of the project is to provide a technology intelligence platform fo
 
 2. [Filtering patent maps for visualization of diversification paths of inventors and organizations](https://doi.org/10.1002/asi.23780), Journal of the association for information science and technology 68(6):1551-1563.
 
-3. InnoGPS for data-driven exploration of design opportunities and directions: the case of Google driverless car project](https://doi.org/10.1115/1.4037680), Journal of mechanical design 139(11), 111416.
+3. [InnoGPS for data-driven exploration of design opportunities and directions: the case of Google driverless car project](https://doi.org/10.1115/1.4037680), Journal of mechanical design 139(11), 111416.
 
-4. [The superior knowledge proximity measure for patent mapping](https://arxiv.org/pdf/1901.03925.pdf).
+4. [The superior knowledge proximity measure for patent mapping](https://arxiv.org/pdf/1901.03925.pdf), arXiv.
 
 ## Main features:
 1. Build technology road mapping for agents, like companies, individual inventors, etc., using the technology space map.
@@ -24,7 +24,9 @@ The main goal of the project is to provide a technology intelligence platform fo
 
 6. Recommend similar agents using their technology portfolios.
 
-### This repository only shares some following work (shown below) after the published work. If you are interested in the methodology part or have questions/comments, please feel free to contact. Please also note that the networks shared in the repository can only be used for academic research purpose. 
+## Following work:
+
+**This repository only shares some following work (shown below) after the published work. If you are interested in the methodology part or have questions/comments, please feel free to contact. Please also note that the networks shared in the repository can only be used for academic research purpose. **
 
 1. Technology space map visualization. 
 
