@@ -24,7 +24,7 @@ The main goal of the project is to provide a technology intelligence platform fo
 
 6. Recommend similar agents using their technology portfolios.
 
-This repository only shares some following work (shown below) after the published work. If you are interested in the methodology part or have questions/comments, please feel free to contact. Please also note that the networks shared in the repository can only be used for academic research purpose. 
+### This repository only shares some following work (shown below) after the published work. If you are interested in the methodology part or have questions/comments, please feel free to contact. Please also note that the networks shared in the repository can only be used for academic research purpose. 
 
 1. Technology space map visualization. 
 
