@@ -1,4 +1,4 @@
-## Domain-specific knowledge graph for recommendation.
+## Domain-specific knowledge graph for recommendation
 
 The main goal of the project is to provide a technology intelligence platform for technology competitive analysis. We created technology space maps, in which nodes represent technology domains and edges denote the relationships between the technology domains, by applying different statistical methods, e.g., similarity measures, information theory, economic base metrics. It is a network-analytic based decision making tool.
 
@@ -26,7 +26,7 @@ The main goal of the project is to provide a technology intelligence platform fo
 
 ### Following work:
 
-**This repository only shares some following work (shown below) after the published work. If you are interested in the methodology part or have questions/comments, please feel free to contact. Please also note that the networks shared in the repository can only be used for academic research purpose. **
+This repository only shares some following work (shown below) after the published work. If you are interested in the methodology part or have questions/comments, please feel free to contact. **Please also note that the networks shared in the repository can only be used for academic research purpose.**
 
 1. Technology space map visualization. 
 
