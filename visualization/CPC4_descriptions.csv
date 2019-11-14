@@ -1,0 +1,656 @@
+Class,Description
+A01B,Agricultural Machinery
+A01C,Working Soil
+A01D,Harvesting; Mowing
+A01F,Threshing
+A01G,Horticulture
+A01H,New Plant Cultivation
+A01J,Dairy
+A01K,Animal Care
+A01L,Animal Shoeing
+A01M,Catching Animals
+A01N,Preserving Carcasses
+A21B,Baking Equipment
+A21C,Dough working Machines
+A21D,Preservation of baked products
+A22B,Slaughtering Animals
+A22C,Meat Processing
+A23B,Food Preservation
+A23C,Dairy Products
+A23D,Fats & Oils
+A23F,Hot Caffeinated Beverages
+A23G,Cocoa or Confections Products
+A23J,Protein Compositions
+A23K,Animal Feed
+A23L,Food
+A23N,Fruit & Vegetable Processing
+A23P,Working of Foods
+A23V,Food or Non-alcoholic Beverage
+A23Y,Bacteria for Food
+A24B,Tobacco Preparation
+A24C,Cigarette Manufacturing
+A24D,Cigarette filters/mouthpieces
+A24F,Smoking accessories
+A41B,Undergarments
+A41C,Feminine Undergarments
+A41D,Outerwear
+A41F,Garment Fasteners
+A41G,Artificial fiber accessories
+A41H,Sewing Equipment
+A42B,Head Coverings
+A42C,Head Covering Manufacturing
+A43B,Footwear
+A43C,Fabric Footwear fasteners
+A43D,Footwear Manufacturing
+A44B,Metal Footwear fasteners
+A44C,Jewelry
+A44D,Adornments & Jewelry 
+A45B,"Walking Sticks, Umbrellas"
+A45C,Carried Bags
+A45D,Hair care/trimming tools
+A45F,Hiking Pack
+A46B,Brushes
+A46D,Brush Manufacturing
+A47B,Furniture
+A47C,Chairs
+A47D,Children's Furniture
+A47F,Specialized Furniture
+A47G,Tables
+A47H,Window Furnishings
+A47J,Small Kitchen Appliances
+A47K,Sanitation Equipment
+A47L,Domestic Cleaning
+A61B,Medical Diagnostics
+A61C,Dentistry
+A61D,Veterinary medicine
+A61F,Medical Implants/Bandages
+A61G,Individual Medical Transport
+A61H,Physical Therapy
+A61J,Medical Containers
+A61K,Medical Preparations
+A61L,Sterilization
+A61M,Syringes/Swabs
+A61N,Field/Wave Therapy
+A61Q,Cosmetics
+A62B,Life-saving Devices
+A62C,Fire-Fighting
+A62D,Fire Extinguishers
+A63B,Physical Exercise Equipment
+A63C,Skates and Skis
+A63D,Bowling Games
+A63F,Board & Video Games
+A63G,Playgrounds
+A63H,Toys
+A63J,Theatrical Props
+A63K,Racing/Riding Sports
+B01B,Boiling; Boiling Apparatus
+B01D,Separation
+B01F,Mixing
+B01J,Laboratory Processes
+B01L,Laboratory Equipment
+B02B,Grain Preparation
+B02C,Pulverizing Grain
+B03B,Liquid Separation
+B03C,Magnetic Separation
+B03D,Differential Sedimentation
+B04B,Centrifuges
+B04C,Cyclones
+B05B,Spray Nozzles
+B05C,Fluid Dispenser
+B05D,Fluid Application
+B06B,Vibration Generation
+B07B,Sifting
+B07C,Parcel Sorting
+B08B,Cleaning
+B09B,Disposal of Waste
+B09C,Working Soil
+B21B,Rolling Metal
+B21C,Extruding/Pressing Metal
+B21D,Sheet Metal
+B21F,Metal Wire
+B21G,Metal Pins
+B21H,Rolled Metal Objects
+B21J,Forging
+B21K,Forged Products
+B21L,Making Metal Chains
+B22C,Foundry Molding
+B22D,Metal Casting
+B22F,Metallic Power Manufacturing
+B23B,Turning
+B23C,Milling
+B23D,Metalwork
+B23F,Cutting Gears
+B23G,Thread Cutting
+B23H,Welding
+B23K,Soldering
+B23P,Other Metal Tools
+B23Q,Machine Tools
+B24B,Grinders/Sanders/Polishers
+B24C,Abrasive Blasting
+B24D,Sharpening Tools
+B25B,Clamps/Vices
+B25C,Staplers
+B25D,Percussive Tools
+B25F,Combination Tools
+B25G,Tool Handles
+B25H,Workshop Equipment
+B25J,Manipulators
+B26B,Hand tools
+B26D,Cutting Tools
+B26F,Perforation
+B27B,Wood Saws
+B27C,Woodworking Machines
+B27D,Pressing Wood
+B27F,Slotting Machines
+B27G,Woodwork Tools
+B27H,Bending Wood
+B27J,Working of Cane/Cork
+B27K,Dyeing Wood
+B27L,Bark Removal
+B27M,Other Woodworking
+B27N,Drying Wood
+B28B,Shaping Clay
+B28C,Clay Production
+B28D,Masonry; Equipment
+B29B,Material Preparation
+B29C,Shaping Plastic
+B29D,Plastic Production
+B29K,Indexing Molding Materials
+B29L,Indexing Molded Material
+B30B,Presses
+B31B,Cardboard Boxes
+B31C,Wound Tubes
+B31D,Other Paper products
+B31F,Shaping Cardboard
+B32B,Layered Products
+B33Y,Additive Manufacturing
+B41B,Type Printing Machines
+B41C,Printing Surface Manufacturing
+B41D,Print Surface Machines
+B41F,Printing Presses
+B41G,Border Printing/Perforation
+B41J,Mechanical Typography
+B41K,Stamps
+B41L,Automated Duplication
+B41M,Duplication Process
+B41N,Printing Plates
+B41P,"Printing, Lining, Typing & Stamp"
+B42B,Attaching Sheets
+B42C,Bookbinding
+B42D,Book Covers
+B42F,Filing
+B42P,Book & File
+B43K,Writing/Drawing Instruments
+B43L,Writing/Drawing Surfaces
+B43M,Stapling Devices
+B44B,Ornamental Work Tools
+B44C,Ornamental Work
+B44D,Other Artistic Work
+B44F,Special Designs; Pictures
+B60B,Vehicle Wheels
+B60C,Vehicle Tires
+B60D,Vehicle Connections
+B60F,Amphibious Vehicles
+B60G,Vehicle Suspension
+B60H,Vehicle Ventilation System
+B60J,Vehicle Doors/Windows
+B60K,Engine Mounts
+B60L,Electrical Propulsion
+B60M,Power Supply Rails
+B60N,Vehicle Furniture
+B60P,Transportation Vehicles
+B60Q,Vehicle Signaling Devices
+B60R,Vehicle Parts
+B60S,Vehicle Repair
+B60T,Vehicle Brake Systems
+B60V,Air-Cushion Vehicles
+B60W,Conjoint Control
+B60Y,Cross-Cutting Vehicle
+B61B,Rail Systems
+B61C,Locomotives
+B61D,Rail Vehicle Structure
+B61F,Rail Vehicle Suspension
+B61G,Rail Vehicle Couplings
+B61H,Rail Vehicle Brakes
+B61J,Rail Switches
+B61K,Railway Equipment
+B61L,Rail Safety Equipment
+B62B,Hand-Propelled Vehicles
+B62C,Animal Drawn Vehicles
+B62D,Motor Vehicles
+B62H,Cycle Stands
+B62J,Cycle Seats
+B62K,Cycles
+B62L,Cycle Brakes
+B62M,Cycle Propulsion
+B63B,Ships
+B63C,Dry-Docking
+B63G,Offensive/Defensive Ships
+B63H,Marine Propulsion
+B63J,AUXILIARIES ON VESSELS
+B64B,Lighter-Than-Air Vehicles
+B64C,Air-cushion Vehicles
+B64D,Aircraft Propulsion
+B64F,Aircraft Maintenance
+B64G,Cosmonautics
+B65B,Packaging Machines
+B65C,Labeling Machines
+B65D,Storage/Transport Containers
+B65F,Refuse Disposal
+B65G,Conveyor Systems
+B65H,Sheet Handling
+B66B,Conveyor/Cable Transport
+B66C,Cranes/winch Equipment
+B66D,Winches/Pulleys
+B66F,Lifting Equipment
+B67B,Container Lids
+B67C,Filling Containers
+B67D,Liquid Dispensers
+B68B,Harnesses
+B68C,Saddles; Stirrups
+B68F,Leathercraft/Canvas Work
+B68G,Upholstery Equipment
+B81B,Micro-structures
+B81C,Micro-Structure Production
+B82B,Nano-Structures
+B82Y,Nano-Structure Applications
+C01B,Non-Metallic Elements
+C01C,Ammonia Compounds
+C01D,Alkali Metal Compounds
+C01F,Rare-Earth Metal Compounds
+C01G,Other Metal Compounds
+C01P,Solid Inorganic Compounds
+C02F,Water Treatment
+C03B,Glass Manufacturing
+C03C,Composition of Glass
+C04B,Ceramics
+C05B,Phosphatic Fertilizers
+C05C,Nitrogenous Fertilizers
+C05D,Inorganic Fertilizers
+C05F,Organic Fertilizers
+C05G,Fertilizer Mixtures
+C06B,Explosive Compositions
+C06C,Priming Devices
+C06D,Smoke Generation
+C06F,Match Manufacturing
+C07B,Organic Chemistry
+C07C,Carbocyclic Compounds
+C07D,Heterocyclic Compounds
+C07F,Non-Metallic Compounds
+C07G,Other Compounds
+C07H,Sugars
+C07J,Steroids
+C07K,Peptides
+C08B,Polysaccharides
+C08C,Rubber Treatment
+C08F,Carbon Reaction Compounds
+C08G,Non-Carbon Reaction Compounds
+C08H,Natural Compound Derivatives
+C08J,Compounding
+C08K,Inorganic Compounds
+C08L,Macromolecular Compositions
+C09B,Organic Dyes
+C09C,Inorganic Dye Additives
+C09D,Paints/Varnishes
+C09F,Resins/Oils
+C09G,Polishing Compositions
+C09H,Glue or Gelatine Preparation
+C09J,Adhesive Processes
+C09K,Other Materials
+C10B,Gasification
+C10C,Tar
+C10F,Working of Peat
+C10G,Hydrocarbon Mixtures
+C10H,Acetylene Production
+C10J,Gas Production by Oxidation
+C10K,Purifying Combustible Gas
+C10L,Other Fuels
+C10M,Lubricating Compositions
+C10N,Lubrication Compositions Index
+C11B,Refining Waste
+C11C,Fatty Acids
+C11D,Detergents
+C12C,Beer Brewing
+C12F,Denaturing Alcohol
+C12G,Wine
+C12H,Aging and Stabilizing Alcohol
+C12J,Vinegar; Its Preparation
+C12L,Pitching/Depitching Machines
+C12M,Enzymology Equipment
+C12N,Enzyme Compounds
+C12P,Enzyme Synthesis
+C12Q,Measuring Enzymes
+C12R,Indexing Micro-organisms
+C12Y,Enzymes
+C13B,Sucrose Production
+C13K,Saccharide Harvesting
+C14B,Tanning Machines
+C14C,Hide Treatments
+C21B,Smelting
+C21C,Metal Refinement
+C21D,Heat Treatment
+C22B,Metal Production
+C22C,Alloys
+C22F,Working Non-Ferrous Metal
+C23C,Coating Metallic Material
+C23D,Enameling Metal
+C23F,Desurfacing
+C23G,Chemically Cleaning Metal
+C25B,Electrolytic Processes
+C25C,Electrolytic Refinement
+C25D,Electrolytic Coating
+C25F,Electrolytic Extraction/removal
+C30B,Single-Crystal Growth
+C40B,Combinatorial Chemistry
+D01B,Natural Fiber Mechanical Treatment
+D01C,Natural Fiber Chemical Treatment
+D01D,Man-Made Fiber Mechanical Treatment
+D01F,Man-Made Fiber Chemical Treatment
+D01G,Fiber Treatment
+D01H,Winding Fibers
+D02G,Crimping Fibers
+D02H,"Warping, Beaming, or Leasing"
+D02J,Finishing Fibers
+D03C,Shedding Mechanisms
+D03D,Weaving
+D03J,Weaving tools
+D04B,Knitting
+D04C,"Braiding, making lace"
+D04D,Ribbons/Bands
+D04G,Tapestry creation
+D04H,Textile creation
+D05B,Sewing
+D05C,Embroidery
+D05D,"Misc for Sewing, Embroidering & Tufting"
+D06B,Treating Fabrics
+D06C,Finishing Fabrics
+D06F,Pressing Textiles
+D06G,Cleaning Hides
+D06H,Seaming Textiles
+D06J,Pleating Textiles
+D06L,Cleaning fibers
+D06M,Other treatment of Textiles
+D06N,Floor Coverings
+D06P,Dying Textiles/Leather
+D06Q,Decorating Textiles
+D07B,Ropes
+D10B,Misc for Textile
+D21B,Fibrous Material
+D21C,Cellulose Production
+D21D,Paper Pulp Treatment
+D21F,Paper-Making Machines
+D21G,Calenders
+D21H,Pulp Compositions
+D21J,Fiberboard
+E01B,Railway Machinery
+E01C,Surface Construction Tools
+E01D,Bridges
+E01F,Road Finishing Work
+E01H,Land/Street Clearing Tools
+E02B,Hydraulic Engineering
+E02C,Ship-lifting
+E02D,Embankments
+E02F,Dredging
+E03B,Water collection/distribution
+E03C,Domestic Plumbing Fixtures
+E03D,Flushing Toilets
+E03F,Sewers; Cesspools
+E04B,General Building Elements
+E04C,Structural Elements
+E04D,Roof Coverings
+E04F,Building Finishing Work
+E04G,Scaffolding
+E04H,Purpose Built Structures
+E05B,Locking Mechanisms
+E05C,Door/Opening Latches
+E05D,Hinges
+E05F,Wing Movement
+E05G,Safes
+E05Y,"Misc for Door, Window & Wing"
+E06B,Doors/Windows
+E06C,Ladders
+E21B,Mining/Drilling
+E21C,Mining or Quarrying
+E21D,Underground Chambers/tunnels
+E21F,Tunnel Safety
+F01B,Engines
+F01C,Piston Engines
+F01D,Steam Turbines
+F01K,Steam Engine Plants
+F01L,Cyclic Valves
+F01M,Machine Lubrication
+F01N,Exhaust Dampeners
+F01P,Machine Cooling
+F02B,Internal Combustion Engines
+F02C,Gas-Turbine Plants
+F02D,Combustion Engine Control
+F02F,Pistons
+F02G,Hot-Gas Engine Plants
+F02K,Jet-Propulsion Plants
+F02M,Combustible Mixtures
+F02N,Starting Combustion Engines
+F02P,Ignition
+F03B,Machines for Liquids
+F03C,Positive Displacement Engines
+F03D,Wind Motors
+F03G,Spring Motors
+F03H,Reactive Propulsion
+F04B,Positive-Displacement
+F04C,Liquid Driven Engines
+F04D,Non-Positive-Displacement
+F04F,Secondary Liquid Medium Pumps
+F05B,"Special Engine, Pump & Motor"
+F05C,Materials for Engine & Pump
+F05D,Non-Positive-Displacement Engine or Pump
+F15B,Fluid Pressure Systems
+F15C,Fluid Circuit Elements
+F15D,Fluid Dynamics
+F16B,Fasteners
+F16C,Crankshafts
+F16D,Rotational Couplings
+F16F,Shock-Absorption
+F16G,Drive Belts/Cables
+F16H,Gearing
+F16J,Pistons
+F16K,Venting Devices
+F16L,Pipes
+F16M,Engine Support Structures
+F16N,Lubricating
+F16P,Safety Devices
+F16S,Constructional Elements
+F16T,Steam Traps
+F17B,Variable Volume Gasometers
+F17C,Pressure Vessel
+F17D,Pipe-Lines
+F21H,Incandescent Mantle
+F21K,Light Sources
+F21L,Portable Light Sources
+F21S,Non-Portable Lights
+F21V,Features of Lights
+F21W,Indexing Lighting Systems
+F21Y,Indexing Light Sources
+F22B,Steam Generation
+F22D,Preheating Water
+F22G,Superheating Steam
+F23B,Solid Fuel Combustion
+F23C,Fluid/airborne Fuel Combustion
+F23D,Burners
+F23G,Waste Disposal via combustion
+F23H,Grates
+F23J,Removing Combustion Residue
+F23K,Fuel Feeders
+F23L,Air Supply Systems
+F23M,Combustion Chamber Lining
+F23N,Controlled Combustion
+F23Q,Ignition/Extinguishing Devices
+F23R,Combustion Chambers
+F24B,Stoves; Ranges
+F24C,Specialized Stoves
+F24D,Domestic Heating Systems
+F24F,Air Conditioning
+F24H,Liquid Heaters
+F24J,Heat Production
+F25B,Heat-transfer Systems
+F25C,Ice
+F25D,Refrigeration
+F25J,Gas separation
+F26B,Drying
+F27B,Sintering Devices
+F27D,Oven Accessories
+F27M,"Furnace, Kiln, Oven, Restort"
+F28B,Vapor Condensers
+F28C,Non-Chemical Heat-Exchange
+F28D,Non-Contact Heat-Exchange
+F28F,Heat Exchange
+F28G,Cleaning Heat Exchange Devices
+F41A,Ordinance Features
+F41B,Non-combustible projectiles
+F41C,Pistols or Rifles
+F41F,Weapon Barrels
+F41G,Weapon Sights; Aiming
+F41H,Armor/Defense
+F41J,Targets; Bullet Catchers
+F42B,Explosive Charges
+F42C,"Ammunition Fuses, their safety"
+F42D,Blasting
+G01B,Metering by length
+G01C,Metering by waves
+G01D,Metering by other means
+G01F,Metering by Volume
+G01G,Weighing
+G01H,Measuring Sound Waves
+G01J,Measuring Light
+G01K,Measuring Temperature
+G01L,Measuring Force
+G01M,Testing of Machines
+G01N,Analyzing Materials
+G01P,Measuring Movement
+G01Q,Scanning Devices
+G01R,Measuring Electric Variables
+G01S,Measuring Radio Waves
+G01T,Measuring Radiation
+G01V,Geophysics
+G01W,Meteorological Systems
+G02B,Optical Systems
+G02C,Vision Correction Tools
+G02F,Optics
+G03B,Photography
+G03C,Photosensitive Media
+G03D,Processing Photographic Media
+G03F,Photomechanical Process
+G03G,Electrography
+G03H,Holography
+G04B,Mechanical Clocks
+G04C,Electric Clocks
+G04D,Clockmaking
+G04F,Time-Interval Measuring
+G04G,Electronic Time-Pieces
+G04R,Radio-Controlled Time Pieces
+G05B,Regulation Systems
+G05D,Non-Electric Regulation
+G05F,Electric Regulation
+G05G,Mechanical Control
+G06C,Digital Mechanical Computing
+G06D,Digital Fluid Computing
+G06E,Optical Computing Devices
+G06F,Digital Data Processing
+G06G,Analogue Computers
+G06J,Hybrid Computing
+G06K,Data Recording
+G06M,Counting
+G06N,Computational Machines
+G06Q,Data Processing
+G06T,Image Processing
+G07B,Coin Collecting Machines
+G07C,Attendance Registers
+G07D,Distributing/Sorting Currency
+G07F,Coin Sorting Machines
+G07G,Cash Registers
+G08B,Signaling Systems
+G08C,Measured Value Transmission
+G08G,Traffic Control Systems
+G09B,Educational Tools
+G09C,Cryptography
+G09D,Timetables
+G09F,Name/Label Displays
+G09G,Static Signals
+G10B,Blown Instruments
+G10C,Keyboard Instruments
+G10D,Stringed/Percussive Instrument
+G10F,Automatic Musical Instruments
+G10G,Musical Instrument Accessories
+G10H,Musical Synthesizers
+G10K,Sound Producing/Dampening
+G10L,Speech Analysis/Synthesis
+G11B,Punch Tapes
+G11C,Static Storage
+G12B,Other Construction Tools
+G21B,Fusion Reactors
+G21C,Nuclear Reactors
+G21D,Nuclear Power Plant
+G21F,Radiation Protection/treatment
+G21G,Chemical Conversions
+G21H,Obtaining Nuclear Energy
+G21J,Nuclear Explosives
+G21K,Handling Radioactive Material
+G21Y,Protection against Nuclear Radiation
+H01B,Conductors
+H01C,Resistors
+H01F,Magnets
+H01G,Capacitors
+H01H,Electric Switches
+H01J,Discharge Tubes
+H01K,Incandescent lights
+H01L,Semiconductor devices
+H01M,Batteries
+H01P,Waveguides
+H01Q,Aerials
+H01R,Electrical Connections
+H01S,Stimulated Emission Device
+H01T,Spark Gaps
+H02B,Power Distributors
+H02G,Electric Lines
+H02H,Electricity Protection Devices
+H02J,Storing Electricity
+H02K,Dynamo-Electric Machines
+H02M,Current Conversion Systems
+H02N,Electrical Machines
+H02P,Electric Motor Control
+H02S,Photovoltaic Modules
+H03B,Oscillation Generators
+H03C,Modulation
+H03D,Demodulation
+H03F,Amplifiers
+H03G,Controlling Amplification
+H03H,Resonant Circuits
+H03J,Controlling Resonant Circuits
+H03K,Pulse Technique
+H03L,Electric Generator Control
+H03M,Coding/Decoding Information
+H04B,Transmission
+H04H,Broadcast Communication
+H04J,Multiplex Communication
+H04K,Communication Jammers
+H04L,Digital Telecommunication
+H04M,Telephonic Communication
+H04N,Visual Communication
+H04Q,Selecting
+H04R,Audio Amplification
+H04S,Stereophonic Systems
+H04W,Wireless Communication Networks
+H05B,Electric heating/lighting
+H05C,Electric barriers
+H05F,Static Electricity
+H05G,X-ray Technique
+H05H,Plasma Technique
+H05K,Printed Circuit Manufacturing
+Y02B,Climate Change in Buildings
+Y02C, Greenhouse Gases
+Y02D,Climate Change in ICT
+Y02E,"Energy Generation, Transmission or Distribution"
+Y02P,Climate Change in Goods Processing
+Y02T,Climate Change in Transportation
+Y02W,Climate Change in Wastewater Treatment
+Y04S,Smart Grids
+Y10S,Y10S
+Y10T,Y10T

@@ -1,0 +1,129 @@
+Class,Description
+A01,Agriculture
+A21,Baking
+A22,Butchering
+A23,Food Processing
+A24,Tobacco
+A41,Clothing
+A42,Headwear
+A43,Footwear
+A44,Haberdashery & Jewellery
+A45,Hand or Travelling Articles
+A46,Brushware
+A47,Furniture & Appliances
+A61,Medical & Hygiene
+A62,Life-saving
+A63,Sports & Amusements
+B01,Physical or Chemical Processes
+B02,Grain Milling
+B03,Solid Material Separation
+B04,Centrifugal Machines
+B05,Spraying or Atomizing
+B06,Mechanical Vibration
+B07,Separation of Solids
+B08,Cleaning
+B09,Disposal of Waste
+B21,Mechanical Metal-Working
+B22,Casting & Metallurgy
+B23,Machine Tools
+B24,Grinding & Polishing
+B25,Hand Tools
+B26,"Cutting, Stamping & Punching"
+B27,Wood-Working
+B28,"Cement, Clay or Stone Working"
+B29,Plastics-Working
+B30,Press Machine
+B31,Paper Articles
+B32,Layered Products
+B33,3D
+B41,Printing
+B42,Sheet-binding
+B43,Writing & Drawing Implements
+B44,Decorative Arts
+B60,Vehicles in General
+B61,Railways
+B62,Land Vehicles
+B63,Ships
+B64,Aircraft
+B65,Filamentary Material Handling
+B66,Hoisting & Hauling Machines
+B67,Liquid Containers
+B68,Saddlery & Upholstery
+B81,Micro-Structural Technology
+B82,Nano-Technology
+C01,Inorganic Chemistry
+C02,Water Treatment
+C03,"Glass, Mineral or Wool"
+C04,Building Materials
+C05,Fertilisers
+C06,Explosives & Matches
+C07,Organic Chemistry
+C08,Organic Macromolecular Compounds
+C09,Organic Material Applications
+C10,Fuels & Lubricants
+C11,"Fat, Oil & Wax Processing"
+C12,Biochemistry & Genetic Engineering
+C13,Sugar Production
+C14,Leather
+C21,Metallurgy of Iron
+C22,Metalluary of Non-ferrous Metals or Alloys
+C23,Coating Metallic Material
+C25,Electrolysis or Electrophoresis
+C30,Crystal Growth
+C40,Combinatorial Chemistry
+D01,Threads or Fibres
+D02,Yarns or Rope Finishing
+D03,Weaving
+D04,Braiding & Knitting
+D05,Sewing
+D06,Textile Treatment
+D07,Ropes or Cables in General
+D10,Fibrous Materials
+D21,Paper & Cellulose Making
+E01,"Road, Railway & Bridge Construction"
+E02,Hydraulic & Construction Engineering
+E03,Water Supply & Sewerage
+E04,Building Construction
+E05,"Locks, Keys & Safes"
+E06,Building & Vehicle Closures & Ladders
+E21,Drilling & Mining
+F01,Machines or Engines in General
+F02,Combustion Engines
+F03,Machines or Engines for Liquids
+F04,Pumps
+F05,Special Machines or Engines
+F15,Hydraulics & Pneumatics
+F16,Machine Elements
+F17,Storing or Distributing of Liquids
+F21,Lighting
+F22,Steam Generation
+F23,Combustion Apparatus & Processes
+F24,Heating & Ventilating
+F25,"Refrigeration, Liquefaction or Solidification"
+F26,Drying
+F27,"Furnances, Kilns & Ovens"
+F28,Heat Exchange in General
+F41,Weapons
+F42,Ammunition & Blasting
+G01,Measuring & Testing
+G02,Optics
+G03,"Photography, Electrograph & Holography"
+G04,Horology
+G05,Controlling & Regulating
+G06,Computing
+G07,Checking-devices
+G08,Signalling
+G09,Infographics & Display
+G10,Musical Instruments & Acustics
+G11,Information Storage
+G12,Instrument Details
+G16,InfoComm Applications
+G21,Nuclear Technology
+H01,Electric Elements
+H02,Electric Power
+H03,Electronic Circuitry
+H04,Electric Communication
+H05,Electric Techniques
+Y02,Climate Change 
+Y04,General InfoComm Technologies
+Y10,Others in USPC
